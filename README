@@ -1,0 +1,13 @@
+********
+For accessing the http://usaspending.gov/ api.
+
+Available methods:
+
+=== 
+
+contracts($state,$detail=NULL)
+
+assistance($state,$fiscal_year,$max_records=20)
+
+fiscal_summary($fiscal_year,$detail=NULL)
+
